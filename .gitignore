@@ -1,0 +1,50 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Large model binaries / checkpoints (future use)
+models/*.bin
+models/*.pt
+models/*.safetensors
+models/*.h5
+
+# OS specific files
+.DS_Store
+Thumbs.db
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Secrets
+.env
+**/.env
+
+# Model weights
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# Backup archives and folders
+*.zip
+temporal_roberta_v3_backup/
+
+# Frontend dependencies and builds
+node_modules/
+dist/
