@@ -58,6 +58,10 @@ The repository contains experimental results for:
 - DistilBERT
 - RoBERTa
 - Temporal RoBERTa
+- ## Screenshots
+
+<img width="1917" height="918" alt="Screenshot 2026-10-16 220626.png" src="https://github.com/user-attachments/assets/9f5d4ab9-d4c0-4f55-a7a7-5477dc0a323c" />
+
 
 Results and evaluation metrics are available in:
 
